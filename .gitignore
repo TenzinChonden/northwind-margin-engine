@@ -1,0 +1,14 @@
+﻿# Python & Virtual Environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & OS
+data/*.db
+data/*.sqlite
+.DS_Store
+Thumbs.db
